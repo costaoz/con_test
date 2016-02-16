@@ -3,3 +3,9 @@
 # create random plot
 
 plot(runif(100), runif(100))
+
+
+# add binomial model stuff here
+#
+#
+#
