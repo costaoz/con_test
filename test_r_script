@@ -1,1 +1,5 @@
 # test_r_script
+
+# create random plot
+
+plot(runif(100), runif(100))
